@@ -3,17 +3,18 @@
         color: white;
         font-family: Arial, Helvetica, sans-serif;
     }
-    h1{
+        header h1{
         text-align: center;
     }
-    h2{
+        nav h2{
         text-align: center;
     }
-    h3{
+        nav h3{
         text-align: justify;
         margin: 20px;
     }
-    p{
+        nav p{
         text-align: justify;
         margin: 20px;
     }
+    ''
